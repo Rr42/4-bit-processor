@@ -1,5 +1,5 @@
-# 8-bit MIPS processor
-This is a sample project to demonstrate an 8-bit MIPS processor.
+# 4-bit MIPS processor
+This is a sample project to demonstrate an 4-bit MIPS processor.
 
 ### Prerequisite
 This project has been developed on LOGISM which can be downloaded from `http://www.cburch.com/logisim/`.
