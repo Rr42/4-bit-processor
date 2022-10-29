@@ -1,7 +1,0 @@
-We need to give shift amount in left shift and right shift as input to the ALU
-
-Used the built-in modueles in ALU
-
-Removed the clock from ALU as it wasn't required
-
-Someitmes Logisim shows red lines because of 3 state -- given an appropriate input, the error condition is overwritten as the computational block runs
