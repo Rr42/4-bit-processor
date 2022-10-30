@@ -2,7 +2,7 @@
 This is a sample project to demonstrate an 4-bit MIPS processor.
 
 ### Prerequisite
-This project has been developed on LOGISM which can be downloaded from `http://www.cburch.com/logisim/`.
+This project has been developed on LOGISIM v2.7.1 which can be downloaded from `http://www.cburch.com/logisim/`.
 
 ### Using the design files
 * Run LOGISM and use the `File` menu to open the `CU_v2_3.circ` file in the `v2.3` folder.
